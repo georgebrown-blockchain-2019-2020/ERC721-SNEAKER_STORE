@@ -1,4 +1,4 @@
-#ERC721- SNEAKER
+# ERC721- SNEAKER
 ## INTRODUCTION
 This Project is about building sneaker store platform based on ERC721;
 ## SMART CONTRACT
